@@ -1,0 +1,134 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+h3 {
+  font-family: 'Noto Sans', sans-serif;
+  color: #11999E;
+}
+p {
+  line-height: 2;
+}
+hr {
+  width: 4%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+}
+.top-container {
+  background-color: #E8F9FD;
+  position: relative;
+  padding-top: 100px;
+}
+a {
+  color: #11999E;
+}
+.middle-container {
+  margin: 100px auto;
+}
+.skills {
+  margin: 100px auto;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  line-height: 2;
+  margin:0;
+  height: 150px;
+
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.profile-img {
+  width: 12%;
+  border-radius: 50%;
+}
+.profile-disc {
+  width: 30%;
+  margin: auto;
+}
+.computer-img {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chillies-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me {
+  margin: 100px auto;
+}
+.btn {
+
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   border-style: solid;
+   border-color: #66BFBF;
+   color: #FFFFFF;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 5px 40px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 20px;
+}
+
+.btn:hover {
+  border-style: dotted;
+  border-color: #66BFBF;
+   background-color: white;
+   color: #66BFBF;
+   text-decoration: none;
+}
+.footer-link {
+  text-decoration:  none;
+  margin-top: 10%;
+  position: relative;
+  top: 30%;
+  margin:auto 5%;
+  font-weight: bold;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.bottom-disc {
+  position: relative;
+  top: 45%;
+  font-size: 12px;
+  color: white;
+}
